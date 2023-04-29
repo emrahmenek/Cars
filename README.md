@@ -8,4 +8,4 @@ HTML CSS SCSS
 
 <br>
 
-<img src="screen.gif">
+<img src="/images/screen.gif">
