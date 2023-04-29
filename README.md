@@ -4,7 +4,7 @@ Responsive Mobile Web project
 
 ## Used technologies
 
-HTML CSS SCSS
+HTML CSS and SCSS
 
 <br>
 
